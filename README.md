@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BabelfishNY
-- 👀 I’m interested in ... SQL Server, C#.NET, API, Graph DB, AI
-- 🌱 I’m currently learning ... AI, CICD, 
+- 👀 I’m interested in ... SQL Server, C#.NET, API, Graph DB, AI, 3d Printing
+- 🌱 I’m currently learning ... AI, CICD, GCode
 - 💞️ I’m looking to collaborate on ... Database, something not sure
 - 📫 How to reach me ... email 
 - ⚡ Fun fact: ... I have been a developer for 28 Years and this is my First Git Hub Account.  Better late than never.
